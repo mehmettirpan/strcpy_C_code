@@ -1,6 +1,6 @@
 //
-//  main.c
-//  delete
+//  strcpy.c
+//  strcpy
 //
 //  Created by Mehmet TIRPAN on 27.12.2022.
 //
