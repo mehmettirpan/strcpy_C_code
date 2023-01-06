@@ -1,3 +1,3 @@
-# strcpy code without strcpy() function for C language
-* Basic C programming exercise
+# Basic C programming exercise
+* strcpy code without strcpy() function for C language
 * Only 10 character string
